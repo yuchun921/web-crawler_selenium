@@ -10,3 +10,10 @@ http://chromedriver.chromium.org/downloads<br>
 
 ### 安裝 selenium
 在python中安裝**pip install selenium**
+
+
+## 實作說明
+1. 使用selenium抓取主機回傳的html給beautifulsoup解析和搜尋元素
+2. 使用selenium抓取回傳後的html，且用其工具取得html的元素值
+3. 介紹xpath<br>
+   https://zh.wikipedia.org/wiki/XPath
