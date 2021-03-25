@@ -9,4 +9,4 @@ Selenium可以將瀏覽器作業流程自動化，模擬使用者操作瀏覽器
 http://chromedriver.chromium.org/downloads<br>
 
 ### 安裝 selenium
-在python中安裝**pip install selenium
+在python中安裝**pip install selenium**
